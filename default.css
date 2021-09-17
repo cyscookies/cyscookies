@@ -1,1 +1,8 @@
-
+.blackbg
+{
+	background-color: #000000a1;
+	margin: 0vh 55vh 5vh;
+	padding: 45px;
+	border-radius: .5em;
+	text-align: center;
+}
