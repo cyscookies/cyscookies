@@ -12,9 +12,11 @@ p {
 }
 
 h1{
-	color: red
+	color: red;
 }
-
+.wt {
+   color: white;
+}
 body {
   background-image: url("bg.png");
        background-size:auto;
